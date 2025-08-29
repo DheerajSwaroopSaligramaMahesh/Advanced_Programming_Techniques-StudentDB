@@ -38,7 +38,7 @@ A C++ **console-based Student Database Management System** that allows you to ma
 ## How to Run
 
 1. Compile the provided source files with a C++ compiler:  
-   [Source Code Link](https://github.com/DheerajSwaroopSaligramaMahesh/Advanced_Programming_Techniques-StudentDB/tree/main/myCode)  
+   [Source Code Link](https://github.com/DheerajSwaroopSaligramaMahesh/Advanced_Programming_Techniques-StudentDB/tree/main/StudentDB/myCode)  
 
 2. Run the generated executable.  
 
