@@ -16,15 +16,15 @@ A C++ **console-based Student Database Management System** that allows you to ma
 ---
 
 ## Project Structure
-├── Course.cpp / Course.h
-├── BlockCourse.cpp / BlockCourse.h
-├── WeeklyCourse.cpp / WeeklyCourse.h
-├── Student.cpp / Student.h
-├── Address.cpp / Address.h
-├── Enrollment.cpp / Enrollment.h
-├── StudentDb.cpp / StudentDb.h
-├── SimpleUI.cpp / SimpleUI.h
-└── main.cpp # Entry point
+├── Course.cpp / Course.h<br>
+├── BlockCourse.cpp / BlockCourse.h<br>
+├── WeeklyCourse.cpp / WeeklyCourse.h<br>
+├── Student.cpp / Student.h<br>
+├── Address.cpp / Address.h<br>
+├── Enrollment.cpp / Enrollment.h<br>
+├── StudentDb.cpp / StudentDb.h<br>
+├── SimpleUI.cpp / SimpleUI.h<br>
+└── main.cpp # Entry point<br>
 
 ---
 
